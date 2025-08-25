@@ -2,15 +2,13 @@
 title: "Tutorials"
 ---
 
-Below you will find a list of available tutorials with instructions on how to
-install and use the tools we will be using in class. 
+Below you will find a list of available tutorials with instructions on how to install and use the tools we will be using in class. 
 
 ## Available Tutorials
 
 - [01 - VSCode and Anaconda Tutorial](01-vscode-anaconda-tutorial.qmd)
 - [02 - Jupyter Notebook and Markdown Tutorial](02-jupyter-markdown-tutorial.qmd)
 - [03 - GitHub Tutorial](03-github-tutorial.qmd)
-- [04 - PostgreSQL Tutorial](04-postgresql-tutorial.qmd)
 
 PDF versions of the tutorials are also available on GitHub:
 <https://github.com/danilofreire/qtm350/tree/main/tutorials>.
@@ -19,7 +17,6 @@ PDF versions of the tutorials are also available on GitHub:
 
 ### Further examples
 
-- [python-postgresql-example.ipynb](python-postgresql-example.ipynb): A Jupyter Notebook with a PostgreSQL example
 - [testing-ipython.ipynb](testing-ipython.ipynb): A Jupyter Notebook for showing Markdown and code cells
 - [testing-anaconda.py](testing-anaconda.py): A Python script for testing Anaconda installation
 
@@ -49,21 +46,16 @@ PDF versions of the tutorials are also available on GitHub:
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Documentation](https://docs.github.com/en)
 - [Dask Documentation](https://docs.dask.org/en/latest/)
 - [GitHub Co-Pilot Documentation](https://copilot.github.com/)
 - [Docker Documentation](https://docs.docker.com/)
 
-For any questions or issues regarding these tutorials, please [open a GitHub
-issue](https://github.com/danilofreire/qtm350/issues), [submit a pull
-request](https://github.com/danilofreire/qtm350/pulls), or [create a discussion
-post](https://github.com/danilofreire/qtm350/discussions). 
+For any questions or issues regarding these tutorials, please [open a GitHub issue](https://github.com/danilofreire/qtm350/issues), [submit a pull request](https://github.com/danilofreire/qtm350/pulls), or [create a discussion post](https://github.com/danilofreire/qtm350/discussions). 
 
-Please do not forget that, in addition to the tutorials here, the [course
-syllabus](https://danilofreire.github.io/qtm151/syllabus.html#course-outline-and-suggested-readings)
+Please do not forget that, in addition to the tutorials here, the [course syllabus](https://danilofreire.github.io/qtm350/syllabus.html#course-outline-and-suggested-readings)
 also contains a list of recommended weekly readings and additional resources.
 
-I hope you like the
-tutorials and find them useful! 
+I hope you like the tutorials and find them useful! 

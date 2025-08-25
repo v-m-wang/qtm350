@@ -4,13 +4,25 @@ title: "QTM 350 - Data Science Computing"
 
 Welcome to [QTM 350](https://github.com/danilofreire/qtm350)! This course introduces key tools in modern data science, focusing on three essential aspects: reliability, reproducibility, and robustness. We will cover the [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface), version control with [Git](https://git-scm.com/) and [GitHub](https://github.com/), and literate programming using [Quarto](https://quarto.org/). You will also learn about [cloud computing with AWS (basics)](https://aws.amazon.com/), data storage and manipulation with [SQL](https://www.w3schools.com/sql/) and [Pandas](https://pandas.pydata.org/), and parallel computing with [Dask](https://www.dask.org/). We will explore AI-assisted programming with [GitHub Copilot](https://github.com/features/copilot) and [Ollama](https://ollama.com/) and finish with [Docker](https://www.docker.com/) and containerisation. 
 
-We will meet every Monday and Wednesday from 14:30 to 15:45 in the [Maths and Science Centre - E208](https://maps.app.goo.gl/wLPSNiTSSXbizqsF8).
+We will meet every Monday and Wednesday from 4pm to 5:15pm in the [Psychology Building, Room 230](http://emap.fmd.emory.edu/website/campus/index.htm#?queryzoom=Yes&Query=(bldg='2045')).
 
 ## Contact Information
+
+### Instructor
 
 - **Name**: [Danilo Freire](https://danilofreire.github.io/)
 - **Email**: [`danilo.freire@emory.edu`](mailto:danilo.freire@emory.edu)
 - **Office Hours**: By appointment at your convenience, please email me to schedule a meeting
+
+### Teaching Assistants
+
+- **Name**: Alix Morales
+- **Email**: [`alix.morales@emory.edu`](mailto:alix.morales@emory.edu) 
+
+- **Name**: Harris Wang
+- **Email**: [`harris.wang@emory.edu`](mailto:harris.wang@emory.edu)
+
+- Please email them if you would like to schedule a meeting
 
 ## Learning Outcomes
 
@@ -35,7 +47,7 @@ If you encounter any issues with the course materials or have questions about th
 1. Check the [course syllabus](https://danilofreire.github.io/qtm350/syllabus.html) and this README for relevant information
 2. Review the [lecture materials](https://danilofreire.github.io/qtm350/lectures/lectures.html) and [tutorials](https://danilofreire.github.io/qtm350/tutorials/tutorials.html) in the repository
 3. Consult with your classmates or post in the [course discussion forum](https://github.com/danilofreire/qtm350/discussions)
-4. Attend office hours or schedule an appointment with the instructor
+4. Attend office hours or schedule an appointment with the TAs or the instructor
 
 ## Contributing to the Repository
 

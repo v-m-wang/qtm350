@@ -193,14 +193,14 @@
     "href": "index.html",
     "title": "QTM 350 - Data Science Computing",
     "section": "",
-    "text": "Welcome to QTM 350! This course introduces key tools in modern data science, focusing on three essential aspects: reliability, reproducibility, and robustness. We will cover the command-line interface, version control with Git and GitHub, and literate programming using Quarto. You will also learn about cloud computing with AWS (basics), data storage and manipulation with SQL and Pandas, and parallel computing with Dask. We will explore AI-assisted programming with GitHub Copilot and Ollama and finish with Docker and containerisation.\nWe will meet every Monday and Wednesday from 14:30 to 15:45 in the Maths and Science Centre - E208."
+    "text": "Welcome to QTM 350! This course introduces key tools in modern data science, focusing on three essential aspects: reliability, reproducibility, and robustness. We will cover the command-line interface, version control with Git and GitHub, and literate programming using Quarto. You will also learn about cloud computing with AWS (basics), data storage and manipulation with SQL and Pandas, and parallel computing with Dask. We will explore AI-assisted programming with GitHub Copilot and Ollama and finish with Docker and containerisation.\nWe will meet every Monday and Wednesday from 4pm to 5:15pm in the Psychology Building, Room 230."
   },
   {
     "objectID": "index.html#contact-information",
     "href": "index.html#contact-information",
     "title": "QTM 350 - Data Science Computing",
     "section": "Contact Information",
-    "text": "Contact Information\n\nName: Danilo Freire\nEmail: danilo.freire@emory.edu\nOffice Hours: By appointment at your convenience, please email me to schedule a meeting"
+    "text": "Contact Information\n\nInstructor\n\nName: Danilo Freire\nEmail: danilo.freire@emory.edu\nOffice Hours: By appointment at your convenience, please email me to schedule a meeting\n\n\n\nTeaching Assistants\n\nName: Alix Morales\nEmail: alix.morales@emory.edu\nName: Harris Wang\nEmail: harris.wang@emory.edu\nPlease email them if you would like to schedule a meeting"
   },
   {
     "objectID": "index.html#learning-outcomes",
@@ -221,7 +221,7 @@
     "href": "index.html#getting-help",
     "title": "QTM 350 - Data Science Computing",
     "section": "Getting Help",
-    "text": "Getting Help\nIf you encounter any issues with the course materials or have questions about the content, please:\n\nCheck the course syllabus and this README for relevant information\nReview the lecture materials and tutorials in the repository\nConsult with your classmates or post in the course discussion forum\nAttend office hours or schedule an appointment with the instructor"
+    "text": "Getting Help\nIf you encounter any issues with the course materials or have questions about the content, please:\n\nCheck the course syllabus and this README for relevant information\nReview the lecture materials and tutorials in the repository\nConsult with your classmates or post in the course discussion forum\nAttend office hours or schedule an appointment with the TAs or the instructor"
   },
   {
     "objectID": "index.html#contributing-to-the-repository",
@@ -354,14 +354,14 @@
     "href": "tutorials/tutorials.html#available-tutorials",
     "title": "Tutorials",
     "section": "Available Tutorials",
-    "text": "Available Tutorials\n\n01 - VSCode and Anaconda Tutorial\n02 - Jupyter Notebook and Markdown Tutorial\n03 - GitHub Tutorial\n04 - PostgreSQL Tutorial\n\nPDF versions of the tutorials are also available on GitHub: https://github.com/danilofreire/qtm350/tree/main/tutorials."
+    "text": "Available Tutorials\n\n01 - VSCode and Anaconda Tutorial\n02 - Jupyter Notebook and Markdown Tutorial\n03 - GitHub Tutorial\n\nPDF versions of the tutorials are also available on GitHub: https://github.com/danilofreire/qtm350/tree/main/tutorials."
   },
   {
     "objectID": "tutorials/tutorials.html#additional-resources",
     "href": "tutorials/tutorials.html#additional-resources",
     "title": "Tutorials",
     "section": "Additional Resources",
-    "text": "Additional Resources\n\nFurther examples\n\npython-postgresql-example.ipynb: A Jupyter Notebook with a PostgreSQL example\ntesting-ipython.ipynb: A Jupyter Notebook for showing Markdown and code cells\ntesting-anaconda.py: A Python script for testing Anaconda installation\n\n\n\nSuggested Books\n\nPython for Data Analysis by Wes McKinney\nElements of Data Science by Allen Downey\nSQL for Data Scientists by Renee M. P. Teate\nData Science on the Command Line by Jeroen Janssens\nDocker for Data Science by Joshua Cook\nPro Git by Scott Chacon and Ben Straub\nFree programming books\n\n\n\nOnline Courses\n\nCoursera: Python for Everybody Specialisation\nedX: Python Basics for Data Science\nCodecademy: Learn Python\nDataCamp: Introduction to SQL\nCoursera: SQL for Data Science\nCoursera: Introduction to Git and GitHub\nMicrosoft Learn: GitHub Copilot Fundamentals\n\n\n\nDocumentation\n\nOfficial Python Documentation\nNumPy Documentation\nPandas Documentation\nMatplotlib Documentation\nPostgreSQL Documentation\nGit Documentation\nGitHub Documentation\nDask Documentation\nGitHub Co-Pilot Documentation\nDocker Documentation\n\nFor any questions or issues regarding these tutorials, please open a GitHub issue, submit a pull request, or create a discussion post.\nPlease do not forget that, in addition to the tutorials here, the course syllabus also contains a list of recommended weekly readings and additional resources.\nI hope you like the tutorials and find them useful!"
+    "text": "Additional Resources\n\nFurther examples\n\ntesting-ipython.ipynb: A Jupyter Notebook for showing Markdown and code cells\ntesting-anaconda.py: A Python script for testing Anaconda installation\n\n\n\nSuggested Books\n\nPython for Data Analysis by Wes McKinney\nElements of Data Science by Allen Downey\nSQL for Data Scientists by Renee M. P. Teate\nData Science on the Command Line by Jeroen Janssens\nDocker for Data Science by Joshua Cook\nPro Git by Scott Chacon and Ben Straub\nFree programming books\n\n\n\nOnline Courses\n\nCoursera: Python for Everybody Specialisation\nedX: Python Basics for Data Science\nCodecademy: Learn Python\nDataCamp: Introduction to SQL\nCoursera: SQL for Data Science\nCoursera: Introduction to Git and GitHub\nMicrosoft Learn: GitHub Copilot Fundamentals\n\n\n\nDocumentation\n\nOfficial Python Documentation\nNumPy Documentation\nPandas Documentation\nMatplotlib Documentation\nSQLite Documentation\nGit Documentation\nGitHub Documentation\nDask Documentation\nGitHub Co-Pilot Documentation\nDocker Documentation\n\nFor any questions or issues regarding these tutorials, please open a GitHub issue, submit a pull request, or create a discussion post.\nPlease do not forget that, in addition to the tutorials here, the course syllabus also contains a list of recommended weekly readings and additional resources.\nI hope you like the tutorials and find them useful!"
   },
   {
     "objectID": "syllabus.html",
