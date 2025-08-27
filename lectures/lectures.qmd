@@ -10,7 +10,7 @@ The course covers the following topics, with corresponding lecture materials ava
 
 - Syllabus and course repository: <https://github.com/danilofreire/qtm350>.
 - Lecture 01: [Welcome to QTM 350 - Introduction](https://raw.githack.com/danilofreire/qtm350/main/lectures/lecture-01/01-introduction.html).
-- [Course Tutorials: How to Install Anaconda, Jupyter, PostgreSQL, VSCode, and Open a Free Educational Account on GitHub](https://github.com/danilofreire/qtm350/tutorials).
+- [Course Tutorials: How to Install Anaconda, Jupyter, VSCode, and Open a Free Educational Account on GitHub](https://github.com/danilofreire/qtm350/tutorials).
 
 Suggested references:
 
@@ -155,8 +155,8 @@ Suggested references:
 ### October 8, 2025:
 
 - Lecture 12: **Quiz 02: Literate Programming (6%)**.
-- **Assignment 04 due (5%).**
-- **Assignment 05:** [Problem Set 05](https://github.com/danilofreire/qtm350/blob/main/assignments/05-assignment.ipynb).
+- **Assignment 05 due (5%).**
+- **Assignment 06:** [Problem Set 06](https://github.com/danilofreire/qtm350/blob/main/assignments/06-assignment.ipynb).
 
 ### October 13, 2025:
 
@@ -168,7 +168,8 @@ Suggested references:
 
 - Lecture 14: [Introduction to Cloud Computing](https://raw.githack.com/danilofreire/qtm350/main/lectures/lecture-14/14-cloud.html).
 - [Kahoot Quiz](https://play.kahoot.it/v2/?quizId=8691380c-2ccb-49fa-aab1-471754aeb24c&hostId=05eb977d-4f8a-440e-9e45-95212b29d103).
-- **Assignment 05 due (5%).**
+- **Assignment 06 due (5%).**
+- **Assignment 07:** [Problem Set 07.](https://github.com/danilofreire/qtm350/blob/main/assignments/07-assignment.ipynb).
 
 Suggested references:
 
@@ -191,7 +192,7 @@ Suggested references:
 ### October 22, 2025:
 
 - Lecture 16: **Quiz 03: AI-Assisted Programming and Cloud Computing (6%)**.
-- **Assignment 07:** Problem Set 07.
+- **Assignment 07 due (5%).**
 
 ## Module 06: Introduction to SQL Databases 
 
@@ -213,8 +214,7 @@ Suggested references:
 
 - Lecture 18: [SQL in Python: Connecting to Databases with Pandas](https://raw.githack.com/danilofreire/qtm350/main/lectures/lecture-18/18-sql-python.html).
 - [Kahoot Quiz](https://play.kahoot.it/v2/?quizId=ebd517ed-7bf1-447c-8e30-9c5abb75ef16&hostId=05eb977d-4f8a-440e-9e45-95212b29d103).
-- **Assignment 07 due (5%).**
-- **Assignment 08:** Problem Set 08.
+- **Assignment 08:** [Problem Set 08.](https://github.com/danilofreire/qtm350/blob/main/assignments/08-assignment.ipynb)
 
 ### November 3, 2025:
 
@@ -232,7 +232,7 @@ Suggested references:
 
 - Lecture 20: **Quiz 04: SQL Databases (6%)**.
 - **Assignment 08 due (5%).**
-- **Assignment 09:** Problem Set 09.
+- **Assignment 09:** [Problem Set 09.](https://github.com/danilofreire/qtm350/blob/main/assignments/09-assignment.ipynb)
 
 ## Module 07: Parallel Computing
 
@@ -252,7 +252,7 @@ Suggested references:
 - Lecture 22: [Application: Parallelising Data Analysis with Dask and AutoML](https://raw.githack.com/danilofreire/qtm350/main/lectures/lecture-22/22-parallel-automl.html).
 - [Kahoot Quiz](https://play.kahoot.it/v2/?quizId=a2403e39-2c84-473b-8e78-ea0889581b0c&hostId=05eb977d-4f8a-440e-9e45-95212b29d103).
 - **Assignment 09 due (5%).**
-- **Assignment 10:** Problem Set 10
+- **Assignment 10:** [Problem Set 10.](https://github.com/danilofreire/qtm350/blob/main/assignments/10-assignment.ipynb).
 
 Suggested references:
 

@@ -31,5 +31,8 @@
   },
   "tutorials/LICENSE.qmd": {
     "LICENSE.html": "8b922831"
+  },
+  "assignments/assignments.qmd": {
+    "assignments.html": "6defd061"
   }
 }
